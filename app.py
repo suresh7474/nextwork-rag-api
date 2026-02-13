@@ -17,3 +17,4 @@ def query(q: str):
     )
 
     return {"answer": answer["response"]}
+
