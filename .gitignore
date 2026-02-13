@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+Dockerfile
+service.yaml
+deployment.yaml
+
+# Chroma database
+db/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+test.py
+# OS
+.DS_Store
+Thumbs.db
